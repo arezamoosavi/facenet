@@ -1,7 +1,7 @@
 import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
-import tmp.vggface16
+
 
 def main():
   
@@ -12,7 +12,7 @@ def main():
     t_preprocessed = tf.expand_dims(t_input-image_mean, 0)
      
     # Build the inference graph
-    nodes = tmp.vggface16.load('data/vgg_face.mat', t_preprocessed)
+    nodes = application.tmp.vggface16.load('data/vgg_face.mat', t_preprocessed)
         
     img_noise = np.random.uniform(size=(224,224,3)) + 117.0
 

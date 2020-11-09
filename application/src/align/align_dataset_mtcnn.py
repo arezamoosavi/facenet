@@ -36,6 +36,9 @@ import align.detect_face
 import random
 from time import sleep
 
+# import tensorflow.compat.v1 as tf
+# tf.disable_v2_behavior()
+
 def main(args):
     sleep(random.random())
     output_dir = os.path.expanduser(args.output_dir)
