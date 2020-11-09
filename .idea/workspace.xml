@@ -33,101 +33,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228e4f99-6e3f-4293-8585-981806e1dd0c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/application/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/application/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pydevproject" beforeDir="false" afterPath="$PROJECT_DIR$/application/.pydevproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pylintrc" beforeDir="false" afterPath="$PROJECT_DIR$/application/.pylintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/application/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contributed/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/contributed/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contributed/batch_represent.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/contributed/batch_represent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contributed/cluster.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/contributed/cluster.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contributed/clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/contributed/clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contributed/export_embeddings.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/contributed/export_embeddings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contributed/face.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/contributed/face.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contributed/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/contributed/predict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contributed/real_time_face_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/contributed/real_time_face_recognition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/Anthony_Hopkins_0001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/application/data/images/Anthony_Hopkins_0001.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/images/Anthony_Hopkins_0002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/application/data/images/Anthony_Hopkins_0002.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/learning_rate_retrain_tripletloss.txt" beforeDir="false" afterPath="$PROJECT_DIR$/application/data/learning_rate_retrain_tripletloss.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/learning_rate_schedule_classifier_casia.txt" beforeDir="false" afterPath="$PROJECT_DIR$/application/data/learning_rate_schedule_classifier_casia.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/learning_rate_schedule_classifier_msceleb.txt" beforeDir="false" afterPath="$PROJECT_DIR$/application/data/learning_rate_schedule_classifier_msceleb.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/learning_rate_schedule_classifier_vggface2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/application/data/learning_rate_schedule_classifier_vggface2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pairs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/application/data/pairs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/container/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/align/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/align/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/align/align_dataset_mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/align/align_dataset_mtcnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/align/det1.npy" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/align/det1.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/align/det2.npy" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/align/det2.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/align/det3.npy" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/align/det3.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/align/detect_face.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/align/detect_face.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculate_filtering_metrics.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/calculate_filtering_metrics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/classifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/compare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decode_msceleb_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/decode_msceleb_dataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/download_and_extract.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/download_and_extract.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/facenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/facenet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/freeze_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/freeze_graph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generative/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/generative/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generative/calculate_attribute_vectors.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/generative/calculate_attribute_vectors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generative/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/generative/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generative/models/dfc_vae.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/generative/models/dfc_vae.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generative/models/dfc_vae_large.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/generative/models/dfc_vae_large.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generative/models/dfc_vae_resnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/generative/models/dfc_vae_resnet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generative/models/vae_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/generative/models/vae_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generative/modify_attribute.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/generative/modify_attribute.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generative/train_vae.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/generative/train_vae.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lfw.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/lfw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/dummy.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/models/dummy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/inception_resnet_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/models/inception_resnet_v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/inception_resnet_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/models/inception_resnet_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/squeezenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/models/squeezenet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/train_softmax.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/train_softmax.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/train_tripletloss.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/train_tripletloss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/validate_on_lfw.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/validate_on_lfw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/batch_norm_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/test/batch_norm_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/center_loss_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/test/center_loss_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/restore_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/test/restore_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/train_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/test/train_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/triplet_loss_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/test/triplet_loss_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/align_dataset.m" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/align_dataset.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/align_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/align_dataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/align_dlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/align_dlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cacd2000_split_identities.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/cacd2000_split_identities.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/dataset_read_speed.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/dataset_read_speed.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/deepdream.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/deepdream.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/detect_face_v1.m" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/detect_face_v1.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/detect_face_v2.m" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/detect_face_v2.m" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/download_vgg_face_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/download_vgg_face_dataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/funnel_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/funnel_dataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/invariance_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/invariance_test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/mnist_center_loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/mnist_center_loss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/mnist_noise_labels.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/mnist_noise_labels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/mtcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/mtcnn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/mtcnn_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/mtcnn_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/mtcnn_test_pnet_dbg.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/mtcnn_test_pnet_dbg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/network.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/network.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/nn2.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/nn2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/nn3.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/nn3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/nn4.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/nn4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/nn4_small2_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/nn4_small2_v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/pilatus800.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/pilatus800.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/random_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/random_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/rename_casia_directories.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/rename_casia_directories.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/seed_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/seed_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/select_triplets_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/select_triplets_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/test_align.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/test_align.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/test_invariance_on_lfw.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/test_invariance_on_lfw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/vggface16.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/vggface16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/vggverydeep19.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/vggverydeep19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/visualize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/visualize_vgg_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/visualize_vgg_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/visualize_vggface.py" beforeDir="false" afterPath="$PROJECT_DIR$/application/tmp/visualize_vggface.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/plot_learning_curves.m" beforeDir="false" afterPath="$PROJECT_DIR$/application/util/plot_learning_curves.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/.pydevproject" beforeDir="false" afterPath="$PROJECT_DIR$/.pydevproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/.pylintrc" beforeDir="false" afterPath="$PROJECT_DIR$/.pylintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,9 +68,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/application/datasets" />
       <recent name="$PROJECT_DIR$/application" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/container" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -175,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604902886407</updated>
       <workItem from="1604902888373" duration="12036000" />
-      <workItem from="1604921386417" duration="1924000" />
+      <workItem from="1604921386417" duration="2375000" />
     </task>
     <servers />
   </component>
