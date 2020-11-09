@@ -17,13 +17,15 @@ RUN pip install --no-cache-dir -r requirements.txt \
   && rm -rf requirements.txt
 
 RUN wget --no-verbose http://vis-www.cs.umass.edu/lfw/lfw.tgz
+RUN mkdir -p /datasets/lfw/raw
 RUN tar xvf lfw.tgz -C datasets/lfw/raw --strip-components=1
 RUN rm -rf lfw.tgz
 
-RUN mkdir -p /main
+#RUN mkdir -p /main
 COPY ./application /main
 
 COPY container/jupyter_run.sh /jupyter_run.sh
 RUN chmod a+rwx /jupyter_run.sh
 
+ENV PYTHONPATH=/main/src
 WORKDIR /main
